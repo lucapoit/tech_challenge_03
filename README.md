@@ -1,4 +1,5 @@
-[![Open In Colab](https://github.com/lucapoit/tech_challenge_03/blob/main/tech_challenge_03_colab.ipynb)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucapoit/tech_challenge_03/blob/main/tech_challenge_03_colab.ipynb)
+
 
 # 🛫 Predição de Cancelamento de Voos – EDA + Modelagem
 
@@ -15,7 +16,7 @@ Todo o fluxo — da EDA até os modelos finais — está detalhado no notebook, 
 
 ## 📘 Notebook no Google Colab
 
-👉 **[Clique aqui para abrir o notebook no Google Colab][[![Open In Colab](https://github.com/lucapoit/tech_challenge_03/blob/main/tech_challenge_03_colab.ipynb)]**  
+👉 **[Clique aqui para abrir o notebook no Google Colab][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucapoit/tech_challenge_03/blob/main/tech_challenge_03_colab.ipynb)**  
 *(Ele contém todas as análises, gráficos, modelagens e conclusões.)*
 
 ---
